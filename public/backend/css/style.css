@@ -1,0 +1,8 @@
+.navbar-laravel {
+    background-color: #00adee;
+    box-shadow: 0 2px 4px rgba(0, 255, 255, 0.4);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
